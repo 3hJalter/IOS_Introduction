@@ -1,0 +1,41 @@
+Solution By Jalter 01/10/2023
+
+Ex1. Shift cipher 
+Encrypted text
+
+JBCRCLQRWCRVNBJENBWRWN
+
+(I have no fucking idea how this text encrypted. I tried to shift all 26 alphabet case but no one give me the right answer.)
+
+Ex2. Mono-alphabetical Substitution Cipher
+Encrypted text
+
+Pjmu mu b amtjfo rfsr. Mr jbu cffi fiaowtrfg cw rjf uvcurmrvrmqi amtjfo. Wqv
+bof xfow nvahw. Rjf amtjfo jbu cffi coqhfi
+
+This is a cipher text. It has been encrypted by the substitution cipher. You
+are very lucky. The cipher has been broken
+
+-> First P wrong, should be R
+
+Encrypt Key
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+B C A G F 0 0 J M 0 H N 0 I Q T 0 O U R V X Y S W 0
+
+Ex3. Mono-alphabetical Substitution Cipher
+Encrypted text
+YIF QFMZRW QFYV ECFMD ZPCVMRZW NMD ZVEJB TXCDD UMJN 
+DIFEFMDZ CD MQ ZKCEYFCJMYR NCW JCSZR EXCHZ UNMXZ 
+NZ UCDRJ XYYSMRT M EYIFZW DYVZ VYFZ UMRZ CRW NZ DZJJXZW 
+GCHS MR NMD HNCMF QCHZ JMXJZW IE JYUCFWD JNZ DIR
+
+OUR FRIEND FROM PARIS EXAMINED HIS EMPTY GLASS WITH 
+SURPRISE AS IF EVAPORATION HAD TAKEN PLACE WHILE 
+HE WASNT LOOKING I POURED SOME MORE WINE AND HE SETTLED 
+BACK IN HIS CHAIR FACE TILTED UP TOWARDS THE SUN
+
+Encrypt Key
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+C G H W Z Q T N M 0 S X V R Y E 0 F D J I K U P B 0
+
+
