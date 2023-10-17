@@ -1,4 +1,9 @@
-﻿using System.Text;
+﻿//
+// Created by Jalter on 10/17/2023.
+//
+
+
+using System.Text;
 
 namespace EncryptDES.Lib;
 

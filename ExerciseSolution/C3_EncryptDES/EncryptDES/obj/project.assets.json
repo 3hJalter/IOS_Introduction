@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Học\\Kỳ 1 2023-2024\\ATTT\\Git\\EngSlide\\EncryptDES\\EncryptDES\\EncryptDES.csproj",
+      "projectUniqueName": "D:\\Học\\Kỳ 1 2023-2024\\ATTT\\Git\\ExerciseSolution\\C3_EncryptDES\\EncryptDES\\EncryptDES.csproj",
       "projectName": "EncryptDES",
-      "projectPath": "D:\\Học\\Kỳ 1 2023-2024\\ATTT\\Git\\EngSlide\\EncryptDES\\EncryptDES\\EncryptDES.csproj",
+      "projectPath": "D:\\Học\\Kỳ 1 2023-2024\\ATTT\\Git\\ExerciseSolution\\C3_EncryptDES\\EncryptDES\\EncryptDES.csproj",
       "packagesPath": "C:\\Users\\hhhtn\\.nuget\\packages\\",
-      "outputPath": "D:\\Học\\Kỳ 1 2023-2024\\ATTT\\Git\\EngSlide\\EncryptDES\\EncryptDES\\obj\\",
+      "outputPath": "D:\\Học\\Kỳ 1 2023-2024\\ATTT\\Git\\ExerciseSolution\\C3_EncryptDES\\EncryptDES\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hhhtn\\AppData\\Roaming\\NuGet\\NuGet.Config"
