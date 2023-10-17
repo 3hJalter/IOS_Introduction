@@ -27,9 +27,9 @@ public class RoundKey
             // 3.2. Merge the two halves
             string merged = left + right;
             // 3.3. Permute the merged key using PC-2 table
-            string subKey = Utilities.Permute(merged, Tables.Pc2);
+            string roundKey = Utilities.Permute(merged, Tables.Pc2);
             // 3.4. Add the sub-key to the list
-            roundKeys.Add(subKey);
+            roundKeys.Add(roundKey);
         }
     }
 
