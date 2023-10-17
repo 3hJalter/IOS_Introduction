@@ -13,6 +13,7 @@ public class RoundKey
     public RoundKey(string key)
     {
         if (key.Length != 64) throw new ArgumentException("The key must be 64-bits long.");
+        // 1. Permute the key using PC-1 table
         string permutedKey = Utilities.Permute(key, Tables.Pc1);
         // 2. Split the permuted key into two halves
         string left = permutedKey.Substring(0, 28);
