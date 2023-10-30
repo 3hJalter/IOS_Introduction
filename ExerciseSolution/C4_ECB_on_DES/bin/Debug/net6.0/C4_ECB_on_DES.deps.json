@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C4_ECB_on_DES/1.0.0": {
+        "runtime": {
+          "C4_ECB_on_DES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C4_ECB_on_DES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

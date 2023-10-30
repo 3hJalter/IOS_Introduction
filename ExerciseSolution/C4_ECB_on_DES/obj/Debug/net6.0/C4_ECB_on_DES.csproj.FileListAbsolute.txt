@@ -1,0 +1,15 @@
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\bin\Debug\net6.0\C4_ECB_on_DES.exe
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\bin\Debug\net6.0\C4_ECB_on_DES.deps.json
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\bin\Debug\net6.0\C4_ECB_on_DES.runtimeconfig.json
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\bin\Debug\net6.0\C4_ECB_on_DES.dll
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\bin\Debug\net6.0\C4_ECB_on_DES.pdb
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\obj\Debug\net6.0\C4_ECB_on_DES.csproj.AssemblyReference.cache
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\obj\Debug\net6.0\C4_ECB_on_DES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\obj\Debug\net6.0\C4_ECB_on_DES.AssemblyInfoInputs.cache
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\obj\Debug\net6.0\C4_ECB_on_DES.AssemblyInfo.cs
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\obj\Debug\net6.0\C4_ECB_on_DES.csproj.CoreCompileInputs.cache
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\obj\Debug\net6.0\C4_ECB_on_DES.dll
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\obj\Debug\net6.0\refint\C4_ECB_on_DES.dll
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\obj\Debug\net6.0\C4_ECB_on_DES.pdb
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\obj\Debug\net6.0\C4_ECB_on_DES.genruntimeconfig.cache
+D:\Học\Kỳ 1 2023-2024\ATTT\Git\ExerciseSolution\C4_ECB_on_DES\obj\Debug\net6.0\ref\C4_ECB_on_DES.dll
